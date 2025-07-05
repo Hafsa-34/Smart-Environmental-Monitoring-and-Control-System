@@ -1,6 +1,7 @@
 # Smart-Environmental-Monitoring-and-Control-System
 _🔧 Project Description_
-This **Arduino** project monitors temperature and humidity using the DHT11 sensor and provides a visual and audio alert system based on environmental conditions. It uses LEDs, a buzzer, and a fan to indicate different temperature/humidity levels.
+This **Arduino** project monitors temperature and humidity using the DHT11 sensor and provides a visual and audio alert system based on environmental conditions. 
+It uses LEDs, a buzzer, and a fan to indicate different temperature/humidity levels.
 
 _📋 Features_
 Uses the DHT11 sensor to measure temperature and humidity.
